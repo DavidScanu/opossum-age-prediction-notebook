@@ -31,19 +31,25 @@ un dépôt GitHub
 
 ## Sommaire : 
 - Objectif
-- Description des colonnes
+- Description des caractères
 - Importer les bibliothèques
 - Importer les données
+- Valeurs manquantes
+- Suppression des colonnes inutiles
 - Analyse statistique de base
 - Visualisation
-- Préparation des données
-  - Nettoyage
-  - Outliers
-  - Equilibre
+- Encodage
+- Correlations
+- Outliers
+- Equilibre
 - Séparation des données
+- Train test split
 - Feature selection
 - Mise à l'échelle
-- Machine learning
+- KNeighborsRegressor
+- Régression linéaire
+- Régression polynomiale
+- Choix du modèle
 - Export du modèle
 
 ---
